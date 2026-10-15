@@ -1,80 +1,68 @@
-
-<img src="https://raw.githubusercontent.com/Boraseoksoon/halfmoon/master/header.png" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:92fe9d&height=200&section=header&text=Shubham%20Kumar%20Kishore&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20%7C%20Open%20To%20Work&descAlignY=55&descAlign=60" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+Kumar+Kishore;Java+Full+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+Kumar+Kishore;Java+Full+Stack+Developer+%F0%9F%9A%80;Spring+Boot+%7C+React+JS+%7C+MySQL+%7C+Kafka" />
 </h1>
 
-<h3 align="center">A passionate Java Full Stack Developer from India 🇮🇳</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhamkishor416&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/shubham-kumar-kishore/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:shubhamkishor416@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=01ShubhamKishor&label=PROFILE+VIEWS&color=00c9ff&style=for-the-badge" />
+  <a href="https://github.com/01ShubhamKishor?tab=followers"><img src="https://img.shields.io/github/followers/01ShubhamKishor?label=Followers&style=for-the-badge&color=00c9ff" /></a>
+  <a href="mailto:shubhamkishor416@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
+> Java Full Stack Developer with practical experience in real-time projects. Building reliable & efficient solutions.
 
-> I am a Java Full Stack Developer with practical experience in real-time projects. Skilled in frontend, backend, and database to build reliable and efficient solutions.
-
-- 🎓 MCA - Galgotias University (7.79 CGPA) | BCA - St. Columba's College
-- 🔭 Currently working on - **Social Media Chat App & Salon Booking System**
-- 🌱 Learning - **Microservices & Apache Kafka**
-- 💬 Ask me about - **Java, Spring Boot, React, MySQL**
-- 📫 Reach me - **shubhamkishor416@gmail.com**
-
----
+- 🎓 MCA - Galgotias University (7.79) | BCA - St. Columba's College (7.39)
+- 💻 Intern @ Techsnitch Pvt Ltd - ServiceNow Technical Intern
+- 🚀 Expertise: `Java 8` `Spring Boot` `Microservices` `React JS` `MySQL` `Kafka`
+- 📍 Hazaribag, India | 📧 shubhamkishor416@gmail.com | 📞 +91-9608674280
+- 🎯 Open to Work as Java Full Stack Developer
 
 ### 🛠️ Tech Stack
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,tailwind,bootstrap,mysql,mongodb,git,postman,eclipse,vscode" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,tailwind,bootstrap,mysql,mongodb,kafka,git,github,postman,eclipse,idea,vscode" />
 </p>
 
-**Backend:** `Servlet` `JSP` `JDBC` `Spring` `Hibernate/JPA` `Spring Boot` `Microservices` `Kafka` `Spring Security` `JWT`
-**Frontend:** `React JS` `Redux Toolkit` `JavaScript` `Tailwind` `MUI`
-**Tools:** `Git` `GitHub` `Postman` `JUnit 5` `STS 4`
+**Backend:** Java 8, Servlet, JSP, Spring, Spring Boot, Spring Security, JPA/Hibernate, Microservices, Kafka, JWT, REST API
+**Frontend:** React JS, Redux Toolkit, JavaScript, Tailwind, MUI
+**Tools:** Git, Postman, JUnit5, STS4, VS Code
 
----
-
-### 📊 GitHub Stats
-
+### 📊 GitHub Analytics - 100% Working
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shubhamkishor416&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkishor416&theme=tokyonight" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=01ShubhamKishor&theme=tokyonight" />
 </p>
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamkishor416&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=01ShubhamKishor&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=01ShubhamKishor&theme=tokyonight" />
 </p>
-
----
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=01ShubhamKishor&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=01ShubhamKishor&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=01ShubhamKishor&theme=tokyonight" />
+</p>
 
 ### 🚀 Featured Projects
 
-#### 1. Social Media Chat Application
-> Real-time chat app with instant messaging, post sharing & comments. JWT auth + Spring Security + REST APIs.
-> **Stack:** Spring Boot, Spring Security, JPA, React JS, Redux, Tailwind, MySQL
-> 🔗 [View Repo](#)
+**1. 💬 Social Media Chat Application**
+Real-time chat app with instant messaging, post sharing & comments. JWT + Spring Security.
+`Spring Boot` `React JS` `Redux` `MySQL` `Tailwind`
 
-#### 2. Salon Booking System
-> Full-stack platform for browsing services & booking appointments online with role-based access.
-> **Stack:** Java, Spring Boot, Spring MVC, Spring Security, MySQL
-> 🔗 [View Repo](#)
+**2. 💈 Salon Booking System**
+Full-stack salon booking platform with authentication & role-based access.
+`Spring Boot` `Spring MVC` `MySQL`
 
----
-
-### 🏆 Certifications
-- Java Business Application Training - **EduPyramids, SINE, IIT Bombay**
-- Java Full Stack - **EduSkills Academy**
-
----
+### 🏆 Certifications & Trophies
+- Java Business Application - IIT Bombay (SINE) | June 2025
+- Java Full Stack - EduSkills Academy | Aug 2024
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubhamkishor416&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=01ShubhamKishor&theme=tokyonight&no-frame=true&column=7&margin-w=15&no-bg=true" />
 </p>
 
 <h3 align="center">Let's Connect & Build Something Amazing! 🚀</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubham-kumar-kishore/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/01ShubhamKishor"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo
