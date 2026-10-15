@@ -25,10 +25,12 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,tailwind,bootstrap,mysql,mongodb,kafka,git,github,postman,eclipse,idea,vscode" />
 </p>
+| Category | Tech |
+| :--- | :--- |
+| **Backend** | Java 8, Servlet, JSP, Spring, Spring Boot, Security, JPA, Microservices, Kafka, JWT, REST API |
+| **Frontend** | React JS, Redux, JavaScript, Tailwind, MUI |
+| **Tools** | Git, Postman, JUnit5, STS4, VS Code |
 
-**Backend:** Java 8, Servlet, JSP, Spring, Spring Boot, Spring Security, JPA/Hibernate, Microservices, Kafka, JWT, REST API <br>
-**Frontend:** React JS, Redux Toolkit, JavaScript, Tailwind, MUI <br>
-**Tools:** Git, Postman, JUnit5, STS4, VS Code
 
 ### 📊 GitHub Analytics - 100% Working
 <p align="center">
@@ -38,6 +40,26 @@
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=01ShubhamKishor&theme=tokyonight" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=01ShubhamKishor&theme=tokyonight" />
 </p>
+
+
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=01ShubhamKishor&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=01ShubhamKishor&theme=tokyonight" />
+</p>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=01ShubhamKishor&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=01ShubhamKishor&theme=tokyonight" />
+</p>
+
+ye code kaha dalna hi
+
+
+
+
+
+
+
 <p align="center">
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=01ShubhamKishor&theme=tokyonight" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=01ShubhamKishor&theme=tokyonight" />
