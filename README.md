@@ -60,8 +60,8 @@ Full-stack salon booking platform with authentication & role-based access.
 - Java Full Stack - EduSkills Academy | Aug 2024
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=01ShubhamKishor&theme=tokyonight&no-frame=true&column=7&margin-w=15&no-bg=true" />
-</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=01ShubhamKishor&theme=onedark&column=7" />
+
 
 <h3 align="center">Let's Connect & Build Something Amazing! 🚀</h3>
 <p align="center">
