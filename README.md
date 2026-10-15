@@ -59,6 +59,40 @@ Full-stack salon booking platform with authentication & role-based access.
 - Java Business Application - IIT Bombay (SINE) | June 2025
 - Java Full Stack - EduSkills Academy | Aug 2024
 
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=01ShubhamKishor&theme=tokyonight&hide_border=true" />
+</p>
+
+<h3 align="center">Let's Connect & Build Something Amazing! 🚀</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubham-kumar-kishore/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/01ShubhamKishor"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:92fe9d&height=120&section=footer&text=Thanks%20For%20Visiting!&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=01ShubhamKishor&theme=onedark&column=7" />
 
