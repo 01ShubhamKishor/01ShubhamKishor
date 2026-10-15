@@ -25,14 +25,14 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,tailwind,bootstrap,mysql,mongodb,kafka,git,github,postman,eclipse,idea,vscode" />
 </p>
-| Category | Tech |
+
+| Category | Skills |
 | :--- | :--- |
-| **Backend** | Java 8, Servlet, JSP, Spring, Spring Boot, Security, JPA, Microservices, Kafka, JWT, REST API |
-| **Frontend** | React JS, Redux, JavaScript, Tailwind, MUI |
+| **Backend** | Java 8, Servlet, JSP, Spring, Spring Boot, Spring Security, JPA/Hibernate, Microservices, Kafka, JWT, REST API |
+| **Frontend** | React JS, Redux Toolkit, JavaScript, Tailwind, MUI |
 | **Tools** | Git, Postman, JUnit5, STS4, VS Code |
 
-
-### 📊 GitHub Analytics - 100% Working
+### 📊 GitHub Analytics
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=01ShubhamKishor&theme=tokyonight" />
 </p>
@@ -40,30 +40,9 @@
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=01ShubhamKishor&theme=tokyonight" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=01ShubhamKishor&theme=tokyonight" />
 </p>
-
-
-
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=01ShubhamKishor&theme=tokyonight" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=01ShubhamKishor&theme=tokyonight" />
-</p>
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=01ShubhamKishor&theme=tokyonight" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=01ShubhamKishor&theme=tokyonight" />
-</p>
-
-ye code kaha dalna hi
-
-
-
-
-
-
-
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=01ShubhamKishor&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=01ShubhamKishor&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=01ShubhamKishor&theme=tokyonight" />
 </p>
 
 ### 🚀 Featured Projects
@@ -87,4 +66,7 @@ Full-stack salon booking platform with authentication & role-based access.
 <h3 align="center">Let's Connect & Build Something Amazing! 🚀</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-kumar-kishore/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/01ShubhamKishor"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo
+  <a href="https://github.com/01ShubhamKishor"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:92fe9d&height=120&section=footer&text=Thanks%20For%20Visiting!&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
