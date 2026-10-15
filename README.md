@@ -26,8 +26,8 @@
   <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,tailwind,bootstrap,mysql,mongodb,kafka,git,github,postman,eclipse,idea,vscode" />
 </p>
 
-**Backend:** Java 8, Servlet, JSP, Spring, Spring Boot, Spring Security, JPA/Hibernate, Microservices, Kafka, JWT, REST API
-**Frontend:** React JS, Redux Toolkit, JavaScript, Tailwind, MUI
+**Backend:** Java 8, Servlet, JSP, Spring, Spring Boot, Spring Security, JPA/Hibernate, Microservices, Kafka, JWT, REST API <br>
+**Frontend:** React JS, Redux Toolkit, JavaScript, Tailwind, MUI <br>
 **Tools:** Git, Postman, JUnit5, STS4, VS Code
 
 ### 📊 GitHub Analytics - 100% Working
